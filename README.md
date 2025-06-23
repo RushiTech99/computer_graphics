@@ -29,5 +29,5 @@ This is my 1st year Diploma (Polytechnic) Computer Graphics microproject using C
 - Game Over on collision
 
 ## 👨‍💻 Developed by
-Rushi Dhanwade – 1st Year Diploma Student
+Rushikesh Dhanawade 
 
