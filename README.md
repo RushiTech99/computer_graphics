@@ -1,5 +1,5 @@
 # computer_graphics
-Computer Graphics Micro Project using C language
+Computer Graphics Micro Project using C language my first year (diploma) computer graphics project
 # 🚗 Car Racing Game (Computer Graphics Microproject)
 
 This is my 1st year Diploma (Polytechnic) Computer Graphics microproject using C++ and graphics.h in Turbo C++.
